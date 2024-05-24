@@ -1,0 +1,51 @@
+2024-05-22 19:30:45,626 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:30:45,626 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:30:45,627 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2024-05-22 19:30:45,627 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:30:45,627 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:30:45,629 INFO  [Log] Test Name:Buying a Product in Ecommerce application 
+2024-05-22 19:30:45,630 INFO  [Log] Feature Name:Ecommerce 
+2024-05-22 19:30:46,072 INFO  [WebDriverManager] Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125) 
+2024-05-22 19:30:46,096 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\senth\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe 
+2024-05-22 19:30:52,101 INFO  [Ecommerce] standard_user 
+2024-05-22 19:30:57,226 INFO  [Ecommerce] secret_sauce 
+2024-05-22 19:30:57,441 INFO  [Ecommerce] SuccessFully Logged In 
+2024-05-22 19:31:03,568 INFO  [Ecommerce] Product Name: Sauce Labs Backpack 1st Product Picked 
+2024-05-22 19:31:11,737 INFO  [Ecommerce] Product Name: Sauce Labs Fleece Jacket 2nd Product Picked 
+2024-05-22 19:31:14,848 INFO  [Ecommerce] Product Name: Test.allTheThings() T-Shirt (Red) 3rd Product Picked 
+2024-05-22 19:31:36,609 INFO  [Ecommerce] Item total: $95.97 
+2024-05-22 19:31:36,642 INFO  [Ecommerce] Tax: $7.68 
+2024-05-22 19:31:36,669 INFO  [Ecommerce] Total: $103.65 
+2024-05-22 19:31:40,793 INFO  [Ecommerce] Thank you for your order! 
+2024-05-22 19:31:40,798 INFO  [screencapture] Test Success 
+2024-05-22 19:31:40,799 INFO  [Log] ****************************************************************************************** 
+2024-05-22 19:31:40,799 INFO  [Log] ****************************************************************************************** 
+2024-05-22 19:31:40,799 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2024-05-22 19:31:40,799 INFO  [Log] ****************************************************************************************** 
+2024-05-22 19:31:40,799 INFO  [Log] ****************************************************************************************** 
+2024-05-22 19:31:41,197 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:31:41,197 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:31:41,198 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2024-05-22 19:31:41,198 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:31:41,198 INFO  [Log] **************************************************************************************** 
+2024-05-22 19:31:41,198 INFO  [Log] Test Name:Booking a ticket in bus 
+2024-05-22 19:31:41,198 INFO  [Log] Feature Name:TicketBooking 
+2024-05-22 19:31:41,218 INFO  [WebDriverManager] Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125) 
+2024-05-22 19:31:41,234 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\senth\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe 
+2024-05-22 19:31:42,350 INFO  [Log] Bus Application 
+2024-05-22 19:31:59,664 INFO  [Log] Data Filled 
+2024-05-22 19:32:09,703 ERROR [TicketBooking] no such element: Unable to locate element: {"method":"css selector","selector":"#blasl\.ns\>"}
+  (Session info: chrome=125.0.6422.76)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [80942ef9039d6a4964ab9c2a6cabf3ab, findElement {value=blasl.ns>, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.76 (67dcf7562b8f..., userDataDir: C:\Users\senth\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58575}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58575/devtoo..., se:cdpVersion: 125.0.6422.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 80942ef9039d6a4964ab9c2a6cabf3ab 
+2024-05-22 19:32:10,124 INFO  [screencapture] Test Failed 
+2024-05-22 19:32:10,125 INFO  [Log] ****************************************************************************************** 
+2024-05-22 19:32:10,125 INFO  [Log] ****************************************************************************************** 
+2024-05-22 19:32:10,125 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2024-05-22 19:32:10,125 INFO  [Log] ****************************************************************************************** 
+2024-05-22 19:32:10,125 INFO  [Log] ****************************************************************************************** 
