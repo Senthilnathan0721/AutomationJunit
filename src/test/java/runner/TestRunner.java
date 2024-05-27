@@ -5,13 +5,12 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
-
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources",
+        features = "src/test/resources/Features",
         glue = "com.stepDefinitions", plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         tags = "@Regression")
 //plugin = "json:target/cucumber-reports/CucumberTestReport.json")
 
-public class TestRunner {
+public class Testrunner {
 }
