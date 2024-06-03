@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/Features",
         glue = "com.stepDefinitions", plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "pretty"},
-        tags = "@Regression")
+        tags = "@Regression",monochrome=true)
 //plugin = "json:target/cucumber-reports/CucumberTestReport.json")
 
 public class Testrunner {
